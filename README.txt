@@ -1,3 +1,6 @@
+Made some adjustment to compile with new tools
+
+
 XJOYPAD 0.01B Manual
 
 (C) 2002 Erich Kitzmueller  erich.kitzmueller@itek.at
