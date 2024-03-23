@@ -1,5 +1,6 @@
 Made some adjustment to compile with new tools
-
+xjoypad.c is the origina version, it relies on sendevent.c
+Xjoypad is the modified version. Some code clean-up and integrated the function from sendevent.c
 
 XJOYPAD 0.01B Manual
 
