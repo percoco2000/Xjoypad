@@ -251,7 +251,12 @@ void output (int up, int down, int left, int right, int *buttons, int throttle)
     }
 
 
-
+/*
+ * Function : sendevent
+ * Usage    : sendevent();
+ * --------------------------------------------------------------
+ * This function ?????
+ */  
 
 int sendevent(int typ, int keycode) {
 	XEvent event;
